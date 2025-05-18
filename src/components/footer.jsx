@@ -2,9 +2,9 @@ const Footer = () => {
   return (
     <footer className="frame frame--footer">
       <span>
-        Made by  
+        Made by
         <a href="https://ashwinkumavat.tech/" className="line">
-          @ashwin_kumavat
+          @sachin-singh-patwal
         </a>
       </span>
       <span>
